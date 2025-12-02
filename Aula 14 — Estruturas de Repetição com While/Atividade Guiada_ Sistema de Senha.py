@@ -12,3 +12,4 @@ while senha != "python123":
     if senha != "python123":
         print("Senha incorreta, tente novamente!")
 print("Acesso permitido!")
+
